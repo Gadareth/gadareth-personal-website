@@ -11,3 +11,12 @@ p {
 	width: 100px;
 	border-radius: 50%;
 }
+
+.icon:link, 
+.icon:visited {
+	color: #ECF0F1;
+}
+
+.icon:hover {
+	color: #2980b9;
+};
