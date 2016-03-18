@@ -5,3 +5,9 @@ p {
 	font-size: 14px;
 	background-color: grey;
 }
+
+.pic {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
