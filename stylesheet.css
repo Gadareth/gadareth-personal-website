@@ -1,12 +1,9 @@
-/*stylesheet.css*/
-
 p {
 	font-family: Times,serif;
 	font-size: 14px;
-	background-color: grey;
 }
 
-.pic {
+img {
 	height: 100px;
 	width: 100px;
 	border-radius: 50%;
