@@ -5,11 +5,12 @@ p {
 
 div{
 	border-radius: 10px;
+	width: 98%;
+	margin: 10px 10px 10px 10px;
 }
 
 .header {
 	height: 320px;
-	width: 98%;
 	background-color: #C2A0A0;
 	margin: 60px 10px 10px 10px;
 }
@@ -27,8 +28,42 @@ img {
 	display: inline;
 	height: 300px;
 	width: 600px;
-	margin: 10px 10px 10px 10px;
 	color: #FFFFFF;
+}
+
+.education {
+	height: 200px;
+	background-color: #A0A0C2;
+}
+
+.experience {
+	height: 450px;
+	background-color: #C2A0C2;
+}
+
+.skills {
+	height: 350px;
+	background-color: #A0C2A0;
+}
+
+.awards {
+	height: 450px;
+	background-color: #C20000;
+}
+
+.publications {
+	height: 200px;
+	background-color: #00C2000;
+}
+
+.social {
+	height: 150px;
+	background-color: #0000C2;
+}
+
+.contact {
+	height: 200px;
+	background-color: #A0A0A0;
 }
 
 .icon:link, 
