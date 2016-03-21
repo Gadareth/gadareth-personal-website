@@ -53,7 +53,7 @@ img {
 
 .publications {
 	height: 200px;
-	background-color: #00C2000;
+	background-color: #00C200;
 }
 
 .social {
@@ -61,7 +61,7 @@ img {
 	background-color: #0000C2;
 }
 
-.contact {
+#contact {
 	height: 200px;
 	background-color: #A0A0A0;
 }
