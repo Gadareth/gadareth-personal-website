@@ -3,10 +3,32 @@ p {
 	font-size: 14px;
 }
 
+div{
+	border-radius: 10px;
+}
+
+.header {
+	height: 320px;
+	width: 98%;
+	background-color: #C2A0A0;
+	margin: 60px 10px 10px 10px;
+}
+
 img {
 	height: 300px;
 	width: 200px;
-	border-radius: 50%;
+	border-radius: 10px;
+	margin: 10px 10px 10px 10px;
+	display: inline;
+	float: left;
+}
+
+.about-me {
+	display: inline;
+	height: 300px;
+	width: 600px;
+	margin: 10px 10px 10px 10px;
+	color: #FFFFFF;
 }
 
 .icon:link, 
