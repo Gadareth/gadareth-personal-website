@@ -4,15 +4,15 @@ p {
 }
 
 div{
-	border-radius: 10px;
-	width: 98%;
-	margin: 10px 10px 10px 10px;
+	width: 100%;
+	padding: 25px;
+	/*margin: 10px 10px 10px 10px;*/
 }
 
 .header {
-	height: 320px;
+	height: 460px;
 	background-color: #C2A0A0;
-	margin: 60px 10px 10px 10px;
+	margin-top: 200px 10px 10px 10px;
 }
 
 img {
@@ -31,9 +31,13 @@ img {
 	color: #FFFFFF;
 }
 
-.education {
-	height: 200px;
-	background-color: #A0A0C2;
+.black {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+#education {
+	height: 300px;
 }
 
 .experience {
@@ -41,9 +45,8 @@ img {
 	background-color: #C2A0C2;
 }
 
-.skills {
+#skills {
 	height: 350px;
-	background-color: #A0C2A0;
 }
 
 .awards {
@@ -51,9 +54,8 @@ img {
 	background-color: #C20000;
 }
 
-.publications {
+#publications {
 	height: 200px;
-	background-color: #00C200;
 }
 
 .social {
@@ -63,7 +65,6 @@ img {
 
 #contact {
 	height: 200px;
-	background-color: #A0A0A0;
 }
 
 .icon:link, 
