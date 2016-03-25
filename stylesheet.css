@@ -4,8 +4,8 @@ p {
 }
 
 div{
-	width: 100%;
-	padding: 25px;
+	/*width: 100%;
+	padding: 25px;*/
 	/*margin: 10px 10px 10px 10px;*/
 }
 
@@ -40,7 +40,7 @@ img {
 	height: 300px;
 }
 
-.experience {
+#experience {
 	height: 450px;
 	background-color: #C2A0C2;
 }
@@ -49,7 +49,7 @@ img {
 	height: 350px;
 }
 
-.awards {
+#awards {
 	height: 450px;
 	background-color: #C20000;
 }
@@ -58,7 +58,7 @@ img {
 	height: 200px;
 }
 
-.social {
+#social {
 	height: 150px;
 	background-color: #0000C2;
 }
