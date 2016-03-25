@@ -24,17 +24,18 @@ img {
 
 .about-me {
 	display: inline;
-	height: 300px;
+	height: 250px;
 	width: 600px;
 	color: #FFFFFF;
 	float: bottom;
-	margin: 300px 10px 10px 10px;
-	padding: 200px;
+	padding: 350px;
+	margin: 60px 10px 10px 30px;
+	border: 30px 30px 30px 30px;
 }
 
 #education {
-	height: 300px;
-	background-color: #000000;
+	height: 500px;
+	background-color: #303030;
 	color: #FFFFFF;
 }
 
@@ -45,24 +46,24 @@ img {
 
 #skills {
 	height: 360px;
-	background-color: #000000;
+	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #awards {
 	height: 430px;
-	background-color: #C20000;
+	background-color: #C2A0A0;
 }
 
 #publications {
-	height: 250px;
-	background-color: #000000;
+	height: 280px;
+	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #social {
 	height: 150px;
-	background-color: #0000C2;
+	background-color: #C2A0C2;
 }
 
 #contact {
