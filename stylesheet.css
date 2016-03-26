@@ -1,6 +1,6 @@
 p {
-	font-family: Times,serif;
-	font-size: 14px;
+	font-family: Calibri, serif;
+	font-size: 16px;
 }
 
 .section{
@@ -22,30 +22,27 @@ img {
 	float: left;
 }
 
-.about-me {
-	display: inline;
-	height: 250px;
+#about {
+	display: inline-block;
+	height: 350px;
 	width: 600px;
-	color: #FFFFFF;
 	float: bottom;
-	padding: 350px;
-	margin: 60px 10px 10px 30px;
-	border: 30px 30px 30px 30px;
+	margin: 50px;
 }
 
 #education {
-	height: 500px;
+	height: 680px;
 	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #experience {
-	height: 450px;
+	height: 630px;
 	background-color: #C2A0C2;
 }
 
 #skills {
-	height: 360px;
+	height: 420px;
 	background-color: #303030;
 	color: #FFFFFF;
 }
@@ -62,14 +59,15 @@ img {
 }
 
 #social {
-	height: 150px;
+	height: 190px;
 	background-color: #C2A0C2;
 }
 
 #contact {
-	height: 200px;
+	height: 210px;
 	background-color: #000000;
 	color: #FFFFFF;
+	position: center;
 }
 
 .icon:link, 
