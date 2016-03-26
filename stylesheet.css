@@ -1,15 +1,12 @@
-p {
-	font-family: Calibri, serif;
-	font-size: 16px;
-}
-
 .section{
 	width: 100%;
 	padding: 50px;
+	font-family: Calibri, serif;
+	font-size: 18px;
 }
 
 #header {
-	height: 350px;
+	height: 370px;
 	background-color: #C2A0A0;
 }
 
@@ -24,42 +21,42 @@ img {
 
 #about {
 	display: inline-block;
-	height: 350px;
+	height: 370px;
 	width: 600px;
 	float: bottom;
 	margin: 50px;
 }
 
 #education {
-	height: 680px;
+	height: 750px;
 	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #experience {
-	height: 630px;
+	height: 760px;
 	background-color: #C2A0C2;
 }
 
 #skills {
-	height: 420px;
+	height: 500px;
 	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #awards {
-	height: 430px;
+	height: 520px;
 	background-color: #C2A0A0;
 }
 
 #publications {
-	height: 280px;
+	height: 320px;
 	background-color: #303030;
 	color: #FFFFFF;
 }
 
 #social {
-	height: 190px;
+	height: 210px;
 	background-color: #C2A0C2;
 }
 
