@@ -2,76 +2,86 @@
 	width: 100%;
 	padding: 50px;
 	font-family: Calibri, serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
-#header {
-	height: 370px;
-	background-color: #C2A0A0;
+a:link, 
+a:visited {
+	/*color: #D9A43D;*/
+	color: #1E2B47;
 }
 
-img {
-	height: 280px;
-	width: 200px;
+a:hover {
+	color: #FFFFFF;
+}
+
+#profile {
+	height: 320px;
+	width: 220px;
 	border-radius: 10px;
-	margin: 60px 10px 10px 10px;
-	display: inline;
+	margin: 30px 10px -20px -70px;
+	display: inline-block;
 	float: left;
+}
+
+#flag {
+	height: 250px;
+	margin: 50px 10px -20px -80px;
+	width: 400px;
 }
 
 #about {
 	display: inline-block;
-	height: 370px;
+	height: 320px
 	width: 600px;
 	float: bottom;
-	margin: 50px;
+	color: #1E2B47;
+	background-color: #FFFFFF;
 }
 
 #education {
-	height: 750px;
-	background-color: #303030;
+	height: 450px;
+	/*background-color: #1A0950;*/
+	background-color: #345191;
 	color: #FFFFFF;
+	margin: 0px 0px 0px 0px;
 }
 
 #experience {
-	height: 760px;
-	background-color: #C2A0C2;
+	margin: 0px 0px 0px 0px; 
+	height: 1000px;
+	color: #1E2B47;
+	background-color: #D9AF3D;
 }
 
 #skills {
-	height: 500px;
-	background-color: #303030;
+	height: 400px;
+	background-color: #345191;
 	color: #FFFFFF;
+	margin: 0px 0px 0px 0px; 
 }
 
 #awards {
-	height: 520px;
-	background-color: #C2A0A0;
+	height: 570px;
+	color: #1E2B47;
+	background-color: #D9AF3D;
 }
 
 #publications {
-	height: 320px;
-	background-color: #303030;
+	height: 410px;
+	background-color: #345191;
 	color: #FFFFFF;
 }
 
 #social {
 	height: 210px;
-	background-color: #C2A0C2;
+	color: #1E2B47;
+	background-color: #D9AF3D;
 }
 
 #contact {
 	height: 210px;
-	background-color: #000000;
+	background-color: #345191;
 	color: #FFFFFF;
 	position: center;
 }
-
-.icon:link, 
-.icon:visited {
-	color: #ECF0F1;
-}
-
-.icon:hover {
-	color: #2980b9;
-};
