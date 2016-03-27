@@ -1,20 +1,20 @@
+/*Formatting for all sections*/
 .section{
 	width: 100%;
 	padding: 50px;
 	font-family: Calibri, serif;
 	font-size: 16px;
 }
-
+/*Formatting for links*/
 a:link, 
 a:visited {
-	/*color: #D9A43D;*/
 	color: #1E2B47;
 }
 
 a:hover {
 	color: #FFFFFF;
 }
-
+/*Formatting for profile picture*/
 #profile {
 	height: 320px;
 	width: 220px;
@@ -23,7 +23,7 @@ a:hover {
 	display: inline-block;
 	float: left;
 }
-
+/*Formatting for flag*/
 #flag {
 	height: 250px;
 	margin: 50px 10px -20px -80px;
@@ -41,7 +41,6 @@ a:hover {
 
 #education {
 	height: 450px;
-	/*background-color: #1A0950;*/
 	background-color: #345191;
 	color: #FFFFFF;
 	margin: 0px 0px 0px 0px;
