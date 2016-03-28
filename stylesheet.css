@@ -6,6 +6,7 @@
 	font-size: 16px;
 	margin: 0px 0px 0px 0px;
 }
+
 /*Formatting for links*/
 a:link, 
 a:visited {
@@ -15,69 +16,60 @@ a:visited {
 a:hover {
 	color: #FFFFFF;
 }
+
 /*Formatting for profile picture*/
 #profile {
 	height: 320px;
 	width: 220px;
 	border-radius: 10px;
-	margin: 30px 10px -20px -70px;
-	display: inline-block;
+	margin: 30px 30px 0px -70px;
 	float: left;
 }
+
 /*Formatting for flag*/
 #flag {
 	height: 230px;
-	margin: 70px 0px -20px -90px;
+	margin: 70px 0px -20px -50px;
 	width: 365px;
 }
 
 #about {
-	display: inline-block;
-	height: 320px
-	width: 600px;
 	float: bottom;
 	color: #1E2B47;
 	background-color: #FFFFFF;
 }
 
 #education {
-	height: 450px;
 	background-color: #345191;
 	color: #FFFFFF;
 }
 
 #experience {
-	height: 1000px;
 	color: #1E2B47;
 	background-color: #D9AF3D;
 }
 
 #skills {
-	height: 400px;
 	background-color: #345191;
 	color: #FFFFFF;
 }
 
 #awards {
-	height: 570px;
 	color: #1E2B47;
 	background-color: #D9AF3D;
 }
 
 #publications {
-	height: 410px;
 	background-color: #345191;
 	color: #FFFFFF;
 }
 
 #social {
-	height: 210px;
 	color: #1E2B47;
 	background-color: #D9AF3D;
 }
 
 #contact {
-	height: 210px;
 	background-color: #345191;
 	color: #FFFFFF;
 	position: center;
